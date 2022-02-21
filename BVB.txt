@@ -1,0 +1,11 @@
+Roman Bürki|32|T|80
+Matthias Ginter|28|V|76
+Mats Hummel|34|V|86
+Marcel Schmelzer|34|V|78
+Sven Bender|33|V|82
+Ikay Gündogan|32|M|84
+Shinji Kagawa|33|M|82
+Henrikh Mkhitaryan|33|M|85
+Marco Reus|33|M|86
+Pierre-Emerick Aubameyang|33|S|84
+Christian Pulisic|24|S|65

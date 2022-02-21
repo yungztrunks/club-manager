@@ -1,0 +1,12 @@
+Spieler von Manchester United (MUN) (nach Name sortiert)
+Name                    Alter       Position      RatingArron Wan-Bissaka         24          V           83         0
+Bruno Fernandes           27          M           88         0
+Cristiano Ronaldo         36          S           91         0
+David de gea              31          T           84         0
+Harry Maguire             28          V           84         0
+Jadon Sancho              21          S           87         0
+Luke Shaw                 26          V           84         0
+Marcus Rashford           24          S           85         0
+Paul Pogba                28          M           87         0
+Raphael Varane            28          V           86         0
+Scott McTominay           25          M           81         0

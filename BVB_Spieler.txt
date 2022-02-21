@@ -1,0 +1,12 @@
+Spieler von Borussia Dortmund (BVB) (nach Name sortiert)
+Name                    Alter       Position      RatingChristian Pulisic         24          S           65         0
+Henrikh Mkhitaryan        33          M           85         0
+Ikay Gündogan            32          M           84         0
+Marcel Schmelzer          34          V           78         0
+Marco Reus                33          M           86         0
+Mats Hummel               34          V           86         0
+Matthias Ginter           28          V           76         0
+Pierre-Emerick Aubameyang      33          S           84         0
+Roman Bürki              32          T           80         0
+Shinji Kagawa             33          M           82         0
+Sven Bender               33          V           82         0

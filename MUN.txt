@@ -1,0 +1,11 @@
+David de gea|31|T|84
+Harry Maguire|28|V|84
+Luke Shaw|26|V|84
+Raphael Varane|28|V|86
+Arron Wan-Bissaka|24|V|83
+Bruno Fernandes|27|M|88
+Scott McTominay|25|M|81
+Paul Pogba|28|M|87
+Cristiano Ronaldo|36|S|91
+Marcus Rashford|24|S|85
+Jadon Sancho|21|S|87
