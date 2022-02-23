@@ -77,7 +77,7 @@ public class MatchMenu {
 		for (int i = 10; i <= SPIELZEIT; i += 10) {
 			/*
 			 * Jede 10 Minuten Spielzeit wird die Mannschaft "neu gewuerfelt" Danach wird
-			 * ein zufälliger Spieler genommen. Mit diesem Spieler werden die Methoden
+			 * ein zufï¿½lliger Spieler genommen. Mit diesem Spieler werden die Methoden
 			 * torSchiessen() und roteKarte() aus der Klasse Spieler durchgefuehrt. Der
 			 * zurueckgegebene boolean Wert dient noch weiteren Ablaeufen wie zum Beispiel
 			 * angeben dass niemand ein Tor erzielte
@@ -221,6 +221,7 @@ public class MatchMenu {
 			} else {
 				output.write("Der Sieger ist somit: " + match.getAuswTeam().getTeamname());
 			}
+			output.flush();
 			datei.close();
 
 			System.out.println("Datei gespeichert!");
