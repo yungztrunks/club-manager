@@ -218,9 +218,16 @@ public class MatchMenu {
 
 			if (match.getHeimTore() > match.getAuswTore()) {
 				output.write("Der Sieger ist somit: " + match.getHeimTeam().getTeamname());
-			} else {
+			}
+			
+			else if(match.getHeimTore() < match.getAuswTore()) {
 				output.write("Der Sieger ist somit: " + match.getAuswTeam().getTeamname());
 			}
+			
+			else {
+				output.write("Niemand! Das Spiel endete als Unentschieden");
+			}
+			
 			output.flush();
 			datei.close();
 
